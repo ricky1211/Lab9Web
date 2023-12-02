@@ -260,9 +260,9 @@ Pemanggilan require('footer.php'); adalah suatu pernyataan dalam bahasa pemrogra
 
 ## Buat file baru dengan nama kontak.php
 
-- **[link File 1](https://github.com/GilarSumilar/Lab9Web/blob/main/data_barang.php)**
-- **[link File 2](https://github.com/GilarSumilar/Lab9Web/blob/main/tambah_barang.php)**
-- **[link Filae 3](https://github.com/GilarSumilar/Lab9Web/blob/main/ubah.php)**
+- **[link File 1](https://github.com/ricky1211/Lab9Web/blob/main/Contoh_Modularisasi/data_barang.php)**
+- **[link File 2](https://github.com/ricky1211/Lab9Web/blob/main/Contoh_Modularisasi/tambah_barang.php)**
+- **[link Filae 3](https://github.com/ricky1211/Lab9Web/blob/main/Contoh_Modularisasi/ubah.php)**
   
 **Hasil :**
 
